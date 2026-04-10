@@ -44,7 +44,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone [https://github.com/ВАШ_ЛОГИН/Graphics-Lab-1.git](https://github.com/ВАШ_ЛОГИН/Graphics-Lab-1.git)
+   git clone https://github.com/Sergey-Li-Pin/computer-graphic-edu.git
    ```
 2. Откройте проект в любой современной IDE (IntelliJ IDEA, Eclipse) как Maven-проект.
 
